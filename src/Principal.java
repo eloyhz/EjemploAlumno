@@ -18,5 +18,6 @@ public class Principal {
         System.out.println(a2.comoTeLlamas() + ": " + a2.cualEsTuClave());
         System.out.println(a3.comoTeLlamas() + ": " + a3.cualEsTuClave());
         System.out.println(Alumno.dimeTotalAlumnos());
+        // modificación de prueba
     }
 }
